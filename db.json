@@ -2,9 +2,9 @@
   "indo": [
     { "id": 1, "title": "https://www.useetv.com/livetv/indosiar", "height": "800", "yyy": "-190", "scale": "1" },
     { "id": 2, "title": "https://www.useetv.com/livetv/sctv", "height": "350", "yyy": "-190", "scale": "0.8" },
-    { "id": 3, "title": "http://id6.indostreamingtv.com/playerrcti.html", "height": "0", "yyy": "0", "scale": "2" },
-    { "id": 4, "title": "http://id6.indostreamingtv.com/playermnctv.html", "height": "0", "yyy": "0", "scale": "2.2" },
-    { "id": 5, "title": "http://id6.indostreamingtv.com/playergtv.html", "height": "0", "yyy": "0", "scale": "2.4" },
+    { "id": 3, "title": "http://id6.indostreamingtv.com/playerrcti.html", "height": "0", "yyy": "0", "scale": "1" },
+    { "id": 4, "title": "http://id6.indostreamingtv.com/playermnctv.html", "height": "0", "yyy": "0", "scale": "0.8" },
+    { "id": 5, "title": "http://id6.indostreamingtv.com/playergtv.html", "height": "0", "yyy": "0", "scale": "1.2" },
     { "id": 6, "title": "https://www.useetv.com/livetv/metrotv", "height": "350", "yyy": "-190", "scale": "0.6" },
     { "id": 7, "title": "https://www.useetv.com/livetv/tvone", "height": "350", "yyy": "-190", "scale": "1.2" },
     { "id": 8, "title": "https://www.useetv.com/livetv/antv", "height": "350", "yyy": "-190", "scale": "50" },
