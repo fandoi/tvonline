@@ -2,7 +2,7 @@
   "indo": [
     { "id": 1, "title": "https://www.useetv.com/livetv/indosiar", "height": "350", "yyy": "-190", "scale": "50" },
     { "id": 2, "title": "https://www.useetv.com/livetv/sctv", "height": "350", "yyy": "-190", "scale": "50" },
-    { "id": 3, "title": "https://www.vidio.com/live/665-rcti-tv-stream", "height": "0", "yyy": "0", "scale": "50" },
+    { "id": 3, "title": "http://www.itvonline.id/rcti.html", "height": "0", "yyy": "0", "scale": "50" },
     { "id": 4, "title": "https://www.vidio.com/live/870-mnc-tv-stream", "height": "0", "yyy": "0", "scale": "50" },
     { "id": 5, "title": "https://www.vidio.com/live/778-gtv-stream", "height": "0", "yyy": "0", "scale": "50" },
     { "id": 6, "title": "https://www.useetv.com/livetv/metrotv", "height": "350", "yyy": "-190", "scale": "50" },
