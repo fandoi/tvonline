@@ -1,7 +1,7 @@
 {
   "indo": [
     { "id": 1, "title": "https://www.useetv.com/livetv/indosiar", "height": "800", "yyy": "-190", "scale": "1" },
-    { "id": 2, "title": "https://www.useetv.com/livetv/sctv", "height": "350", "yyy": "-190", "scale": "0.8" },
+    { "id": 2, "title": "https://www.useetv.com/livetv/sctv", "height": "350", "yyy": "-190", "scale": "0.9" },
     { "id": 3, "title": "http://id6.indostreamingtv.com/playerrcti.html", "height": "0", "yyy": "0", "scale": "1" },
     { "id": 4, "title": "http://id6.indostreamingtv.com/playermnctv.html", "height": "0", "yyy": "0", "scale": "0.8" },
     { "id": 5, "title": "http://id6.indostreamingtv.com/playergtv.html", "height": "0", "yyy": "0", "scale": "1.2" },
