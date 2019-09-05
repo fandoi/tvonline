@@ -1,8 +1,8 @@
 {
   "indo": [
     { "id": 1, "title": "http://id2.indostreamingtv.com/playerindosiar.html", "yyy": "", "iklan": "" },
-    { "id": 2, "title": "http://id2.indostreamingtv.com/playersctv.html", "yyy": "", "iklan": "" },
-    { "id": 3, "title": "http://id6.indostreamingtv.com/playerrcti.html", "yyy": "", "iklan": "" },
+    { "id": 2, "title": "https://myklik.rtm.gov.my/live.php?ch=2", "yyy": "", "iklan": "" },
+    { "id": 3, "title": "https://myklik.rtm.gov.my/live.php?ch=1", "yyy": "", "iklan": "" },
     { "id": 4, "title": "http://id6.indostreamingtv.com/playermnctv.html", "yyy": "", "iklan": "" },
     { "id": 5, "title": "http://id6.indostreamingtv.com/playergtv.html", "yyy": "", "iklan": "" },
     { "id": 6, "title": "http://www.itvonline.id/playermetrotv.php", "yyy": "", "iklan": "" },
