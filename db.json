@@ -1,12 +1,12 @@
 {
   "indo": [
-    { "id": 1, "title": "http://id2.indostreamingtv.com/playerindosiar.html", "yyy": "LIVE Sekarang \nMan City VS Tottenham", "iklan": "" },
+    { "id": 1, "title": "http://id2.indostreamingtv.com/playerindosiar.html", "yyy": "", "iklan": "" },
     { "id": 2, "title": "http://id2.indostreamingtv.com/playersctv.html", "yyy": "", "iklan": "" },
     { "id": 3, "title": "http://id6.indostreamingtv.com/playerrcti.html", "yyy": "", "iklan": "" },
     { "id": 4, "title": "http://id6.indostreamingtv.com/playermnctv.html", "yyy": "", "iklan": "" },
-    { "id": 5, "title": "http://id6.indostreamingtv.com/playergtv.html", "yyy": "22.00 WIB \nPersija VS Persib", "iklan": "" },
+    { "id": 5, "title": "http://id6.indostreamingtv.com/playergtv.html", "yyy": "", "iklan": "" },
     { "id": 6, "title": "http://www.itvonline.id/playermetrotv.php", "yyy": "", "iklan": "" },
-    { "id": 7, "title": "http://id1.indostreamingtv.com/player1antv.html", "yyy": "", "iklan": "" },
+    { "id": 7, "title": "http://id1.indostreamingtv.com/player1antv.html", "yyy": "Jumat 15.00 WIB, Liga 2\nPersik Vs PSIM", "iklan": "" },
     { "id": 8, "title": "http://id1.indostreamingtv.com/playerantv.html", "yyy": "", "iklan": "" },
     { "id": 9, "title": "http://id1.indostreamingtv.com/playertrans-17.html", "yyy": "", "iklan": "" },
     { "id": 10, "title": "http://id6.indostreamingtv.com/playertransxtv.html", "yyy": "", "iklan": "" },
@@ -15,7 +15,7 @@
     { "id": 13, "title": "https://www.useetv.com/livetv/rtv", "yyy": "", "iklan": "" },
     { "id": 14, "title": "https://www.useetv.com/livetv/beritasatu", "yyy": "", "iklan": "" },
     { "id": 15, "title": "https://www.vidio.com/live/5409-inews-tv-stream", "yyy": "", "iklan": "" },
-    { "id": 16, "title": "https://www.useetv.com/livetv/tvri", "yyy": "LIVE Liga 1 \nMoutong VS Palu City", "iklan": "a" }
+    { "id": 16, "title": "https://myklik.rtm.gov.my/live.php?ch=2", "yyy": "19.30 WIB\nIndonesia Vs Malaysia", "iklan": "" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
