@@ -1,7 +1,7 @@
 {
   "indo": [
-    { "id": 1, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1588923299~acl=/hls-b/ingest_205_*/*~hmac=dcda0751337573f85006cdd16ecf7d1b6370aacfbd19a1fc1a9175154d8aa835/hls-b/ingest_205_360p/index.m3u8", "yyy": "", "iklan": "", "url": "" },
-    { "id": 2, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1588923053~acl=/hls-b/ingest_204_*/*~hmac=39d47d94c01d789c4b549927208a7e3b1c56782b734584ff8a090480146e0e85/hls-b/ingest_204_360p/index.m3u8", "yyy": "", "iklan": "", "url": "" },
+    { "id": 1, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1588925178~acl=/hls-p/ingest_205_*/*~hmac=f35969b4d0c4fbd43f6a40a88a254b200dbec0211d585726ad08910b73b508c1/hls-p/ingest_205_720p/index.m3u8", "yyy": "", "iklan": "", "url": "" },
+    { "id": 2, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1588925509~acl=/hls-b/ingest_204_*/*~hmac=da811556a080870feed2d8753b245794da06a38e6c8f235d56a60d0207a24894/hls-b/ingest_204_480p/index.m3u8", "yyy": "", "iklan": "", "url": "" },
     { "id": 3, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1588923279~acl=/hls-b/ingest_665_*/*~hmac=4a56e25de2e02596375ab93c20b8145e7d388a231512af79326a168b6b071171/hls-b/ingest_665_480p/index.m3u8", "yyy": "", "iklan": "", "url": "" },
     { "id": 4, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1588923140~acl=/hls-b/ingest_870_*/*~hmac=7a824e3d442fcb7cc1a1eac0684ae9f07ae0e73c70a5f7181c01a64914c99905/hls-b/ingest_870_480p/index.m3u8", "yyy": "", "iklan": "", "url": "" },
     { "id": 5, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1588923401~acl=/hls-b/ingest_778_*/*~hmac=546fbde16ff31dab6f1e97383c0d90f0c6824a6127b9b5a2308ab4bf33f7e041/hls-b/ingest_778_480p/index.m3u8", "yyy": "", "iklan": "", "url": "" },
