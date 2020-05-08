@@ -15,7 +15,7 @@
     { "id": 13, "title": "https://www.useetv.com/livetv/rtv", "yyy": "", "iklan": "", "url": "" },
     { "id": 14, "title": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8", "yyy": "", "iklan": "", "url": "" },
     { "id": 15, "title": "https://www.vidio.com/live/5409-inews", "yyy": "", "iklan": "", "url": "" },
-    { "id": 16, "title": "https://www.useetv.com/livetv/tvri", "yyy": "Live ", "iklan": "", "url": "" }
+    { "id": 16, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1588922884~acl=/hls-b/ingest_6441_*/*~hmac=db48e77b453aaff7c4cd8133790b46b7f176b04bf9f9935feb91f595c33795f2/hls-b/ingest_6441_480p/index.m3u8", "yyy": "Live ", "iklan": "", "url": "" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
