@@ -1,21 +1,21 @@
 {
   "indo": [
-    { "id": 1, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1589015913~acl=/hls-b/ingest_205_*/*~hmac=366a53389f22c01ff43331196a8e67763d3a91521f7d57a969ad498868efea0c/hls-b/ingest_205_480p/index.m3u8", "yyy": "", "iklan": "", "url": "" },
-    { "id": 2, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1589015734~acl=/hls-b/ingest_204_*/*~hmac=2c84e6c10511457bfcf6c80db679e53b18ca5ac0f01a6d2311f8b3c64fdf282c/hls-b/ingest_204_480p/index.m3u8", "yyy": "", "iklan": "", "url": "" },
-    { "id": 3, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1589016048~acl=/hls-b/ingest_665_*/*~hmac=d4d930f9a110d3df7019966c4f1cdefa060c0f813f1bb46be155d0aa944d0a9d/hls-b/ingest_665_480p/index.m3u8", "yyy": "", "iklan": "", "url": "" },
-    { "id": 4, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1589015996~acl=/hls-b/ingest_870_*/*~hmac=58535f9134d9c35f72d1c126661607af31d8c6eb55dace5aa7f15736cd6008af/hls-b/ingest_870_480p/index.m3u8", "yyy": "", "iklan": "", "url": "" },
-    { "id": 5, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1589015954~acl=/hls-b/ingest_778_*/*~hmac=bb0a2a45609f7e1d0f24bc702ac3ace0051f2f5901d13653c93c77faab2b8434/hls-b/ingest_778_480p/index.m3u8", "yyy": "", "iklan": "", "url": "" },
-    { "id": 6, "title": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8", "yyy": "", "iklan": "", "url": "" },
-    { "id": 7, "title": "https://www.youtube.com/embed/YbDae5XMkJs", "yyy": "", "iklan": "", "url": "" },
+    { "id": 1, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1589015913~acl=/hls-b/ingest_205_*/*~hmac=366a53389f22c01ff43331196a8e67763d3a91521f7d57a969ad498868efea0c/hls-b/ingest_205_480p/index.m3u8", "yyy": "", "iklan": "1", "url": "" },
+    { "id": 2, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1589015734~acl=/hls-b/ingest_204_*/*~hmac=2c84e6c10511457bfcf6c80db679e53b18ca5ac0f01a6d2311f8b3c64fdf282c/hls-b/ingest_204_480p/index.m3u8", "yyy": "", "iklan": "1", "url": "" },
+    { "id": 3, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1589016048~acl=/hls-b/ingest_665_*/*~hmac=d4d930f9a110d3df7019966c4f1cdefa060c0f813f1bb46be155d0aa944d0a9d/hls-b/ingest_665_480p/index.m3u8", "yyy": "", "iklan": "1", "url": "" },
+    { "id": 4, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1589015996~acl=/hls-b/ingest_870_*/*~hmac=58535f9134d9c35f72d1c126661607af31d8c6eb55dace5aa7f15736cd6008af/hls-b/ingest_870_480p/index.m3u8", "yyy": "", "iklan": "1", "url": "" },
+    { "id": 5, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1589015954~acl=/hls-b/ingest_778_*/*~hmac=bb0a2a45609f7e1d0f24bc702ac3ace0051f2f5901d13653c93c77faab2b8434/hls-b/ingest_778_480p/index.m3u8", "yyy": "", "iklan": "1", "url": "" },
+    { "id": 6, "title": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8", "yyy": "", "iklan": "1", "url": "" },
+    { "id": 7, "title": "https://www.youtube.com/embed/YbDae5XMkJs", "yyy": "", "iklan": "1", "url": "" },
     { "id": 8, "title": "https://www.vlix.id/antv", "yyy": "", "iklan": "", "url": "1" },
-    { "id": 9, "title": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8", "yyy": "", "iklan": "", "url": "" },
-    { "id": 10, "title": "http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8", "yyy": "", "iklan": "", "url": "" },
-    { "id": 11, "title": "https://www.vidio.com/live/874-kompas-tv", "yyy": "", "iklan": "", "url": "" },
+    { "id": 9, "title": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8", "yyy": "", "iklan": "1", "url": "" },
+    { "id": 10, "title": "http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8", "yyy": "", "iklan": "1", "url": "" },
+    { "id": 11, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1589020423~acl=/hls-b/ingest_874_*/*~hmac=7aed29eaa391b17b36b4746c83fd4e14195791a1a3126dd434c3045dad4b94dd/hls-b/ingest_874_480p/index.m3u8", "yyy": "1", "iklan": "", "url": "" },
     { "id": 12, "title": "https://www.youtube.com/embed/JKQzLbfh7SM", "yyy": "", "iklan": "", "url": "" },
     { "id": 13, "title": "https://www.useetv.com/livetv/rtv", "yyy": "", "iklan": "", "url": "" },
     { "id": 14, "title": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8", "yyy": "", "iklan": "", "url": "" },
     { "id": 15, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1589002405~acl=/hls-p/ingest_5409_*/*~hmac=545e1b1976e8a5711a56d670a58e24cacf793d6fd4363a32d749a250d8e745f2/hls-p/ingest_5409_480p/index.m3u8", "yyy": "", "iklan": "", "url": "" },
-    { "id": 16, "title": "https://www.useetv.com/livetv/tvri", "yyy": "Live ", "iklan": "", "url": "" }
+    { "id": 16, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1589020093~acl=/hls-b/ingest_6441_*/*~hmac=183ef58ff1ba79a110ff5e5f8dac1914a17e6b68368fc9fc8d9e25d1d55c88d3/hls-b/ingest_6441_480p/index.m3u8", "yyy": "Live ", "iklan": "", "url": "" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
