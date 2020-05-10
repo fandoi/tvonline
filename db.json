@@ -1,10 +1,10 @@
 {
   "indo": [
-    { "id": 1, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1589121145~acl=/hls-b/ingest_205_*/*~hmac=b722801ff26d2b327451fc5da07d923db792b0415a9ce4be0fc9df3164423ffd/hls-b/ingest_205_480p/index.m3u8", "yyy": "", "iklan": "1", "url": "" },
-    { "id": 2, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1589120928~acl=/hls-b/ingest_204_*/*~hmac=23d6fa372c99ba3bb2b441039a976e8dbe41afc47b7e4b60a12fceb243a321ee/hls-b/ingest_204_480p/index.m3u8", "yyy": "", "iklan": "1", "url": "" },
-    { "id": 3, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1589121174~acl=/hls-b/ingest_665_*/*~hmac=962030da70410307104b945927d8313df9b2050fcb2be4a743c88af4388733d5/hls-b/ingest_665_480p/index.m3u8", "yyy": "", "iklan": "1", "url": "" },
-    { "id": 4, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1589121282~acl=/hls-b/ingest_870_*/*~hmac=50ddebd01cd9232eec91185d0c5137f04d12b99917b1a9d957196d8823caad65/hls-b/ingest_870_480p/index.m3u8", "yyy": "", "iklan": "1", "url": "" },
-    { "id": 5, "title": "https://etslive-2-vidio-com.akamaized.net/exp=1589121059~acl=/hls-b/ingest_778_*/*~hmac=f401fd2b024124ed30bc4cd9b065a14242627dd14d774e8187df43112313242c/hls-b/ingest_778_480p/index.m3u8", "yyy": "Boruto", "iklan": "1", "url": "" },
+    { "id": 1, "title": "https://www.vidio.com/live/205-indosiar", "yyy": "", "iklan": "1", "url": "1" },
+    { "id": 2, "title": "https://www.vidio.com/live/204-sctv", "yyy": "", "iklan": "1", "url": "1" },
+    { "id": 3, "title": "https://www.vidio.com/live/665-rcti", "yyy": "", "iklan": "1", "url": "1" },
+    { "id": 4, "title": "https://www.vidio.com/live/870-mnc", "yyy": "", "iklan": "1", "url": "1" },
+    { "id": 5, "title": "https://www.vidio.com/live/778-gtv", "yyy": "", "iklan": "1", "url": "1" },
     { "id": 6, "title": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8", "yyy": "", "iklan": "1", "url": "" },
     { "id": 7, "title": "https://www.youtube.com/embed/YbDae5XMkJs", "yyy": "", "iklan": "1", "url": "" },
     { "id": 8, "title": "https://www.vlix.id/antv", "yyy": "", "iklan": "1", "url": "1" },
