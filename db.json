@@ -15,7 +15,7 @@
     { "id": 13, "title": "https://www.useetv.com/livetv/rtv", "yyy": "", "iklan": "", "url": "" },
     { "id": 14, "title": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8", "yyy": "", "iklan": "", "url": "" },
     { "id": 15, "title": "https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8", "yyy": "", "iklan": "", "url": "" },
-    { "id": 16, "title": "http://stream1.ninmedia.tv:1935/tvrinasional/udp.stream_360p/playlist.m3u8", "yyy": "", "iklan": "", "url": "" }
+    { "id": 16, "title": "http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8", "yyy": "", "iklan": "", "url": "" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
