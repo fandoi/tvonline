@@ -1,7 +1,7 @@
 {
   "indo": [
     { "id": 1, "title": "https://www.vidio.com/live/205-indosiar", "yyy": "", "iklan": "", "url": "1" },
-    { "id": 2, "title": "https://www.vidio.com/live/204-sctv", "yyy": "", "iklan": "", "url": "1" },
+    { "id": 2, "title": "https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8", "yyy": "", "iklan": "", "url": "" },
     { "id": 3, "title": "https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8", "yyy": "", "iklan": "", "url": "" },
     { "id": 4, "title": "https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8", "yyy": "", "iklan": "", "url": "" },
     { "id": 5, "title": "https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8", "yyy": "", "iklan": "", "url": "" },
