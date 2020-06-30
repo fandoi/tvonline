@@ -1,6 +1,6 @@
 {
   "indo": [
-    { "id": 1, "title": "https://www.vidio.com/live/205-indosiar", "yyy": "", "iklan": "", "url": "1" },
+    { "id": 1, "title": "https://www.vidio.com/live/205-indosiar", "yyy": "", "iklan": "", "url": "1", "imgurl": "" },
     { "id": 2, "title": "https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8", "yyy": "", "iklan": "", "url": "" },
     { "id": 3, "title": "https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8", "yyy": "", "iklan": "", "url": "" },
     { "id": 4, "title": "https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8", "yyy": "", "iklan": "", "url": "" },
